@@ -1,0 +1,2 @@
+# Shoe-Store
+USED SIMPLE HTML CSS JAVASCRIPT only
