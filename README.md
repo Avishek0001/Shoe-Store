@@ -1,4 +1,4 @@
 # Shoe-Store
 USED SIMPLE HTML CSS JAVASCRIPT only
 
-WEBSITE's LINK :- https://avishek0001.github.io/Shoe-Store/product.html
+WEBSITE's LINK :- https://github.com/Avishek0001/Shoe-Store.git
